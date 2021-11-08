@@ -1,16 +1,16 @@
-### Hi there 👋
+# [kso512](https://github.com/kso512/kso512)
 
-<!--
-**kso512/kso512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![myoctocat](https://github.com/kso512/kso512/blob/main/kso512.myoctocat.png)
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on cybersecurity.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on open source software.
+- 🤔 I’m looking for help with improving the code in my repositories.
+- 💬 Ask me about code I wrote over 20 years ago that's still in production.
+- 📫 How to reach me: [HERE](https://github.com/kso512/kso512/issues)
+- 😄 Pronouns: he/him
+- ⚡ Fun facts:
+  - I was paid to professionaly scare people at a haunted house, but the best role was "audience plant" where I would dress as a paying member of the public and interact with the other actors in ways the normal public could not.  For example: being dragged over the railing and acting like I was being disemboweled.
+  - I was paid to boil water for the U.S. Navy (in a nuclear submarine) but the most fun was acting in drills as a "gone crazy shipmate" - then see how the other sailors reacted.
